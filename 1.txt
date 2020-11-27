@@ -1,3 +1,4 @@
 this is a sample fiele
 this is tested for GIT repository
 
+this is a sample git folder file.i am ching some thign
