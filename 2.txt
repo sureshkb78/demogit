@@ -2,3 +2,7 @@ this is  also a text file
 this is also created for GIT testing purpose.
 this is having 3 lines
 
+this is one more line i am adding
+this is a sample line for testing git repo
+
+hello there
